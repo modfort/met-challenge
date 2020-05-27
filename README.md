@@ -1,3 +1,10 @@
+## Instructions
+
+1. git clone
+2. npm install
+3. npm start
+4. bonus : deploy to netlify
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
