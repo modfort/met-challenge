@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Yanone+Kaffeesatz:wght@469&display=swap");
+* {
+    /* box-sizing: border-box;*/
+    font-family: 'Pacifico', cursive;
+   
+}
+
+.navbar {
+    /* background-color: #333;  */
+    color: yellow;
+    size:10px 100px;
+    padding: 14px 20px;
+    margin: 0;
+    float: left;
+    text-decoration: none;
+}
+.navbar :hover {
+    background-color: white;
+    color: hsl(0, 0%, 0%);
+    font-size:17px;
+    opacity: 0.2;
+}
+table{
+    width:100%;
+    text-align: center;
+}
+img{
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+}
+img:hover{
+    opacity: 0.5;
+}
+
+
+body {
+    color:yellow;
+    background-color: rgb(52, 8, 63);
+    text-align: center; 
+    background: radial-gradient(circle, black, white);
+}
